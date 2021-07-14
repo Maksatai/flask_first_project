@@ -1,4 +1,0 @@
-microphone
-phone
-keyboard
-mouse
